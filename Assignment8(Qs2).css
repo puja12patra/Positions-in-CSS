@@ -1,0 +1,37 @@
+.box {
+    display: inline-block;
+    background: red;
+    width: 100px;
+    height: 100px;
+   }
+
+.parent1 {
+    border: 2px black dotted;
+    display: inline-block;
+   }
+  
+
+   #two {
+    top: 20px;
+    left: 20px;
+    background: green;
+    position: relative;
+  }
+  
+.parent2
+{   border: 2px black dotted;
+    display: inline-block;
+    position: relative;
+}
+  #six {
+    top: 20px;
+    left: 20px;
+    background: green;
+    position: absolute;
+  } 
+
+
+
+
+
+

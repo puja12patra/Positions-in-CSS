@@ -1,0 +1,51 @@
+
+       
+        .A {
+            width: 50px;
+            height: 50px;
+           background-color: aqua;
+            left: 200px;
+            top: 200px;
+            position: relative;
+            text-align: center;
+
+        }
+
+        .B {
+            
+            width: 50px;
+            height: 50px;
+            background-color: aqua;
+            right:30px;
+            bottom:30px;
+            position:absolute;
+        }
+
+        .C {
+            width: 50px;
+            height: 50px;
+            background-color: aqua;
+            left:30px;
+            bottom:30px;
+            position:absolute;
+        }
+
+        .D {
+            width: 50px;
+            height: 50px;
+            background-color: aqua;
+            right:30px;
+            top:30px;
+            position:absolute;
+        }
+
+        .E {
+            width: 50px;
+            height: 50px;
+            background-color: aqua;
+            left:30px;
+            top:30px;
+            position:absolute;
+        }
+        
+ 
